@@ -3,6 +3,7 @@
 I'm Edouard, a keyboard addict ⌨️🎹
 
 **Fullstack web developer** | Ruby on Rails | Vue.js
+
 **Jazz pianist**
 
 <!--
