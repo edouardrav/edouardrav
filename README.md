@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I'm Edouard, a keyboard addict ⌨️🎹
+
+**Fullstack web developer** | Ruby on Rails | Vue.js
+**Jazz pianist**
+
 <!--
 **edouardrav/edouardrav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
