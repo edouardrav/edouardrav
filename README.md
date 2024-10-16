@@ -3,8 +3,8 @@
 **Fullstack web developer** | Ruby on Rails | Vue.js ⌨️ && **Jazz pianist** 🎹
 
 Currently working on:
-- *musicadmin*, a web app to help professional musicians keep track of their gigs info and admin docs 🎵
-- *genearbre*, a family tree web app 🌳
+- *musicadmin*, a Ruby on Rails app to help professional musicians keep track of their gigs info and admin docs 🎵
+- *genearbre*, a Ruby on Rails family tree web app 🌳
 - *three.js* projects 🔸
 
 <!--
