@@ -1,6 +1,6 @@
 ## Hi! I'm Edouard 🍉
 
-I'm a **fullstack web developer** in love with **Ruby on Rails** and **Vue.js** ⌨️, and I play **jazz** too 🎹
+I'm a **fullstack web developer** in love with **Ruby on Rails** and **Vue.js** ⌨️ (by the way I play **jazz** too 🎹)
 
 I'm currently working on:
 - *musicadmin*, a rails app to help professional musicians keep track of all their gigs information and admin documents 🎵
