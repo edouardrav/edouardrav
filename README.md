@@ -1,6 +1,11 @@
 ## Hi! I'm Edouard 🍉
 
-**Fullstack web developer** | Ruby on Rails | Vue.js ⌨️ // **Jazz pianist** 🎹
+**Fullstack web developer** | Ruby on Rails | Vue.js ⌨️ && **Jazz pianist** 🎹
+
+Currently working on:
+- *musicadmin*, a web app to help professional musicians keep track of their gigs info and admin docs 🎵
+- *genearbre*, a family tree web app 🌳
+- *three.js* projects 🔸
 
 <!--
 **edouardrav/edouardrav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
