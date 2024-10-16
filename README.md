@@ -1,23 +1,9 @@
 ## Hi! I'm Edouard 🍉
 
-**Fullstack web developer** | Ruby on Rails | Vue.js ⌨️ && **Jazz pianist** 🎹
+I'm a **fullstack web developer** in love with **Ruby on Rails** and **Vue.js** ⌨️, and I play **jazz** too 🎹
 
-Currently working on:
-- *musicadmin*, a Ruby on Rails app to help professional musicians keep track of their gigs info and admin docs 🎵
-- *genearbre*, a Ruby on Rails family tree web app 🌳
+I'm currently working on:
+- *musicadmin*, a rails app to help professional musicians keep track of all their gigs information and admin documents 🎵
+- *genearbre*, a rails family tree web app 🌳
 - some exciting *three.js* projects 🔸
 
-<!--
-**edouardrav/edouardrav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
