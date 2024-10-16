@@ -5,7 +5,7 @@
 Currently working on:
 - *musicadmin*, a Ruby on Rails app to help professional musicians keep track of their gigs info and admin docs 🎵
 - *genearbre*, a Ruby on Rails family tree web app 🌳
-- *three.js* projects 🔸
+- some exciting *three.js* projects 🔸
 
 <!--
 **edouardrav/edouardrav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
