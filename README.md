@@ -1,4 +1,4 @@
-## Hi! I'm Edouardd 🍉
+## Hi! I'm Edouard 🍉
 
 I'm a **fullstack web developer** in love with **Ruby on Rails** and **Vue.js** ⌨️ (by the way I play **jazz** too 🎹)
 
